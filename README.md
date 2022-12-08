@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Pablo, currently studing Computer Science at the [University of Barcelona](https://mat.ub.edu/). I am a Full-Stack developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me [![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablomariaarranzpou/)](https://www.linkedin.com/in/pablomariaarranzpou/)
+I am Pablo, currently studing Computer Science at the [University of Barcelona](https://mat.ub.edu/). I am a Full-Stack developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me [![Linkedin Badge](https://img.shields.io/badge/-pablomariaarranzpou-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablomariaarranzpou/)](https://www.linkedin.com/in/pablomariaarranzpou/)
 
 
 
