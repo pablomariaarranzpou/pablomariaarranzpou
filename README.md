@@ -13,7 +13,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablomariaarranzpou&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/pablomariaarranzpou?theme=light&font=Squada%20One)
+![LeetCode Stats](https://leetcard.jacoblin.cool/pablomariaarranzpou?theme=light&font=Squada%20One&ext=heatmap)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pablomariaarranzpou)
