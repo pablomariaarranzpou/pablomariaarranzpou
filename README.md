@@ -5,19 +5,19 @@
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/pablomariaarranzpou/)](https://github.com/pablomariaarranzpou/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablomariaarranzpou/)](https://www.linkedin.com/in/pablomariaarranzpou)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/Defcon27)](https://www.hackerrank.com/arranzpou10)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:defcon.sentinal95@gmail.com)
-
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:pablomariaarranzpou@gmail.com)
 
 
 ### 🚀 Quick Stats
-<p align="center">
-<img width="450" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=Defcon27&show_icons=true&line_height=21&theme=react" alt="pablomariaarranzpou's Github Stats" />
-<img width="340" height="155" align="center" 
-     src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=pablomariaarranzpou&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" />
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablomariaarranzpou&show_icons=true&theme=gradient)
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=pablomariaaranzpou)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablomariaarranzpou&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/pablomariaarranzpou?theme=light&font=Squada%20One)
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=pablomariaarranzpou)
 
 
 
