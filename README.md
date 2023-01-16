@@ -9,7 +9,6 @@
 Feel free to check out my GitHub profile to see some of my work and get in touch if you have any questions or want to collaborate on a project.
 
 ### 🚀 Quick Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablomariaarranzpou&show_icons=true&theme=gradient)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablomariaarranzpou&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
