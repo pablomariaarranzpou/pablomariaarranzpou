@@ -12,9 +12,8 @@ Feel free to check out my GitHub profile to see some of my work and get in touch
 
 ![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablomariaarranzpou&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablomariaarranzpou&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablomariaarranzpou&layout=compact)]
 
-![LeetCode Stats](![](https://leetcard.jacoblin.cool/pablomariaarranzpou?ext=heatmap))
 ![](https://leetcard.jacoblin.cool/pablomariaarranzpou?ext=activity)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pablomariaarranzpou)
