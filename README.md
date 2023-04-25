@@ -13,6 +13,7 @@ Feel free to check out my GitHub profile to see some of my work and get in touch
 ![](https://leetcard.jacoblin.cool/pablomariaarranzpou?ext=activity)
 
 ![](https://github-readme-stats.vercel.app/api?username=pablomariaarranzpou&show_icons=true&theme=transparent)
+![](https://www.codewars.com/users/pablomariaarranzpou/badges/large)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pablomariaarranzpou)
 
