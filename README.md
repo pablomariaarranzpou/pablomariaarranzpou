@@ -11,10 +11,11 @@ Feel free to check out my GitHub profile to see some of my work and get in touch
 ### 🚀 Quick Stats
 
 ![](https://leetcard.jacoblin.cool/pablomariaarranzpou?ext=activity)
-
+<br>
 ![](https://github-readme-stats.vercel.app/api?username=pablomariaarranzpou&show_icons=true&theme=transparent)
 
 ![](https://www.codewars.com/users/pablomariaarranzpou/badges/large)
+
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablomariaarranzpou&theme=vue-dark&hide_border=true" alt="miguelpalospou's Streak">
 </p>
