@@ -11,13 +11,13 @@ Feel free to check out my GitHub profile to see some of my work and get in touch
 <table align="center">
   <tr>
     <td>
-      <img src="https://user-images.githubusercontent.com/71595730/236784073-bdb83de0-b659-4138-9977-5c6644bc1a05.jpg" alt="Image 1" width="190px" height="90px">
+      <img src="https://user-images.githubusercontent.com/71595730/236784073-bdb83de0-b659-4138-9977-5c6644bc1a05.jpg" alt="Image 1" width="190px" height="100px">
     </td>
     <td>
-      <img src="https://user-images.githubusercontent.com/71595730/236784647-17e04098-703e-4c54-9655-262e62d1d43a.jpg" alt="Image 2" width="190px" height="90px">
+      <img src="https://user-images.githubusercontent.com/71595730/236784647-17e04098-703e-4c54-9655-262e62d1d43a.jpg" alt="Image 2" width="190px" height="100px">
     </td>
     <td>
-      <img src="https://user-images.githubusercontent.com/71595730/236785043-b97e6a68-9469-4da1-9bae-e51af37e59eb.png" alt="Image 3" width="190px" height="90px">
+      <img src="https://user-images.githubusercontent.com/71595730/236785043-b97e6a68-9469-4da1-9bae-e51af37e59eb.png" alt="Image 3" width="190px" height="100px">
     </td>
   </tr>
 </table>
