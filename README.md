@@ -8,6 +8,31 @@
 
 Feel free to check out my GitHub profile to see some of my work and get in touch if you have any questions or want to collaborate on a project.
 
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/71595730/236784073-bdb83de0-b659-4138-9977-5c6644bc1a05.jpg" alt="Image 1" width="190px" height="90px">
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/71595730/236784647-17e04098-703e-4c54-9655-262e62d1d43a.jpg" alt="Image 2" width="190px" height="90px">
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/71595730/236785043-b97e6a68-9469-4da1-9bae-e51af37e59eb.png" alt="Image 3" width="190px" height="90px">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="image4.jpg" alt="Image 4" style="width:100%">
+    </td>
+    <td>
+      <img src="image5.jpg" alt="Image 5" style="width:100%">
+    </td>
+    <td>
+      <img src="image6.jpg" alt="Image 6" style="width:100%">
+    </td>
+  </tr>
+</table>
+
 ### 🚀 Quick Stats
 
 ![](https://leetcard.jacoblin.cool/pablomariaarranzpou?ext=activity)
@@ -21,9 +46,5 @@ Feel free to check out my GitHub profile to see some of my work and get in touch
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pablomariaarranzpou)
-
-
-
-
 
 
