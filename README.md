@@ -41,7 +41,7 @@ Feel free to check out my GitHub profile to see some of my work and get in touch
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablomariaarranzpou&theme=vue-dark&hide_border=true">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablomariaarranzpo&hide_progress=true)](https://github.com/pablomariaarranzpou/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablomariaarranzpou&hide_progress=true)](https://github.com/pablomariaarranzpou/github-readme-stats)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pablomariaarranzpou)
 
