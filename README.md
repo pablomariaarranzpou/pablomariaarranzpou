@@ -20,6 +20,11 @@ Feel free to check out my GitHub profile to see some of my work and get in touch
       <img src="https://user-images.githubusercontent.com/71595730/236785043-b97e6a68-9469-4da1-9bae-e51af37e59eb.png" alt="Image 3" width="190px" height="100px">
     </td>
   </tr>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/71595730/236794140-636c4915-76e8-4068-ba14-486840182c92.jpg" alt="Image 1" width="190px" height="100px">
+    </td>
+  </tr>
 </table>
 
 ### 🚀 Quick Stats
