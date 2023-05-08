@@ -8,7 +8,7 @@
 
 Feel free to check out my GitHub profile to see some of my work and get in touch if you have any questions or want to collaborate on a project.
 ## 🔥 SOME OF MY PROJECTS 
-<table align="center">
+<table align="center" border=none>
   <tr>
     <td>
       <a href="https://github.com/pablomariaarranzpou/wordle-vue-js">
