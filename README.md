@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:pablomariaarranzpou@gmail.com)
 
 Feel free to check out my GitHub profile to see some of my work and get in touch if you have any questions or want to collaborate on a project.
-
+## 🔥 SOME OF MY PROJECTS 
 <table align="center">
   <tr>
     <td>
