@@ -8,7 +8,7 @@
 
 Feel free to check out my GitHub profile to see some of my work and get in touch if you have any questions or want to collaborate on a project.
 ## 🔥 SOME OF MY PROJECTS 
-<table align="center" border=none>
+<table align="center" border="none">
   <tr>
     <td>
       <a href="https://github.com/pablomariaarranzpou/wordle-vue-js">
@@ -18,22 +18,23 @@ Feel free to check out my GitHub profile to see some of my work and get in touch
     <td>
       <a href="https://github.com/pablomariaarranzpou/Unidemy">
         <img src="https://user-images.githubusercontent.com/71595730/236784647-17e04098-703e-4c54-9655-262e62d1d43a.jpg" alt="Image 2" width="190px" height="100px">
-    </td>
       </a>
-  <a href="https://github.com/pablomariaarranzpou/my-leetcode-problems">
-    <td>
-      <img src="https://user-images.githubusercontent.com/71595730/236785043-b97e6a68-9469-4da1-9bae-e51af37e59eb.png" alt="Image 3" width="190px" height="100px">
     </td>
-  </a>
+    <td>
+      <a href="https://github.com/pablomariaarranzpou/my-leetcode-problems">
+        <img src="https://user-images.githubusercontent.com/71595730/236785043-b97e6a68-9469-4da1-9bae-e51af37e59eb.png" alt="Image 3" width="190px" height="100px">
+      </a>
+    </td>
   </tr>
   <tr>
-    <a href="https://github.com/pablomariaarranzpou/DanDanDish_Multiplayer">
     <td>
-      <img src="https://user-images.githubusercontent.com/71595730/236794140-636c4915-76e8-4068-ba14-486840182c92.jpg" alt="Image 1" width="190px" height="100px">
-    </td>
+      <a href="https://github.com/pablomariaarranzpou/DanDanDish_Multiplayer">
+        <img src="https://user-images.githubusercontent.com/71595730/236794140-636c4915-76e8-4068-ba14-486840182c92.jpg" alt="Image 1" width="190px" height="100px">
       </a>
+    </td>
   </tr>
 </table>
+
 
 ### 🚀 Quick Stats
 
