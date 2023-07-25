@@ -26,6 +26,7 @@ Feel free to check out my GitHub profile to see some of my work and get in touch
       </a>
     </td>
   </tr>
+
   <tr>
     <td>
       <a href="https://github.com/pablomariaarranzpou/DanDanDish_Multiplayer">
@@ -34,7 +35,7 @@ Feel free to check out my GitHub profile to see some of my work and get in touch
     </td>
     <td>
       <a href="https://pablomariaarranzpou.github.io/valldoreixfc-demo/">
-        <img src="" alt="Image 1" width="190px" height="100px">
+        <img src="https://github.com/pablomariaarranzpou/pablomariaarranzpou/assets/71595730/66b8ca49-8368-44c0-ae4d-3a2034fd0abc" alt="Image 1" width="190px" height="100px">
       </a>
     </td>
   </tr>
