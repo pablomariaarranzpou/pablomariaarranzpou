@@ -33,11 +33,7 @@ Feel free to check out my GitHub profile to see some of my work and get in touch
         <img src="https://user-images.githubusercontent.com/71595730/236794140-636c4915-76e8-4068-ba14-486840182c92.jpg" alt="Image 1" width="190px" height="100px">
       </a>
     </td>
-    <td>
-      <a href="https://pablomariaarranzpou.github.io/valldoreixfc-demo/">
-        <img src="https://github.com/pablomariaarranzpou/pablomariaarranzpou/assets/71595730/7f44b0a0-971f-4d88-96b7-68ca4b593a2c" alt="Image 1" width="190px" height="100px">
-      </a>
-    </td>
+    
   </tr>
 </table>
 
