@@ -43,10 +43,6 @@ Feel free to check out my GitHub profile to see some of my work and get in touch
         <img src="https://user-images.githubusercontent.com/71595730/236794140-636c4915-76e8-4068-ba14-486840182c92.jpg" alt="Image 1" width="190px" height="100px">
       </a>
     </td>
-    <td>
-      <a href="https://github.com/pablomariaarranzpou/DanDanDish_Multiplayer">
-        <img src="" alt="FocusTube - YouTube Distraction Remover" width="190px" height="100px">
-    </td>
   </tr>
 
 
