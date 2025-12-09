@@ -50,7 +50,6 @@ Feel free to check out my GitHub profile to see some of my work and get in touch
 
 
 ### 🚀 Quick Stats
-<br>
 ![](https://github-readme-stats.vercel.app/api?username=pablomariaarranzpou&show_icons=true&theme=transparent)
 
 <p align="left">
